@@ -1,5 +1,4 @@
-**Adlez**
-===================
+# Adlez
 
 Adlez is a school a Java project for the course TDA367 at Chalmers University.
 
@@ -17,8 +16,7 @@ Full names for grading purposes.
 
 ----------
 
-Setup for Adlez
--------------------
+# Installation tips
 Clone Adlez:
 ```
 git clone https://github.com/pontusthome/Adlez.git
