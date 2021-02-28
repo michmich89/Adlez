@@ -1,20 +1,7 @@
 # Adlez
 
-Adlez is a school a Java project for the course TDA367 at Chalmers University.
-
-----------
-
-Contributors
-------------
-- RisKakaN: Martin So
-- michmich89: Michel Folkemark
-- pontusthome: Pontus Thomé
-- Klickor: Viktor Engström
-
-> **Note:**
-Full names for grading purposes.
-
-----------
+# About
+A Zelda-like game created for the course TDA367 at Chalmers University. 
 
 # Installation tips
 Clone Adlez:
